@@ -1,7 +1,7 @@
 # AIAMI — Daily Journal + Financial Journal + Brainstorming
 
 <p align="center">
-  <img src="assets/logo-wordmark.png" alt="AIAMI" width="280">
+  <img src="https://www.aiami.app/assets/logo-wordmark.png" alt="AIAMI" width="280">
 </p>
 
 <p align="center">
@@ -79,53 +79,16 @@ All plans include the full financial journal, reminders, shifts, memory, and exp
 
 ---
 
-## Website
-
-This repository hosts the static marketing website for AIAMI, deployed via Cloudflare Pages.
-
-**Live:** [www.aiami.app](https://www.aiami.app) · [www.aiami.app/ar](https://www.aiami.app/ar/)
-
-### Local development
-
-```bash
-python3 -m http.server 8000
-open http://localhost:8000
-```
-
-### Structure
-
-```
-├── index.html              ← EN homepage
-├── ar/index.html           ← AR homepage
-├── plans/                  ← Pricing
-├── manual/                 ← User manual (interactive)
-├── privacy/                ← Privacy policy
-├── support/                ← Support (9 interactive sections)
-├── terms/                  ← Terms of service
-├── delete/                 ← Delete data instructions
-├── assets/                 ← CSS, JS, media, logos
-├── _redirects              ← Cloudflare Pages redirects
-├── _headers                ← Cache & security headers
-├── sitemap.xml
-└── robots.txt
-```
-
-### Deployment
-
-Push to `main` → Cloudflare Pages auto-deploys within 30 seconds.
-
----
-
 ## Languages
 
-- **English** — full site + app
-- **العربية** — full site + app (RTL supported)
+- **English** — full app + website
+- **العربية** — full app + website (RTL supported)
 
 ---
 
 ## Contact
 
-- Website: [aiami.app/contact](https://www.aiami.app/#contact)
+- Website: [aiami.app](https://www.aiami.app/#contact)
 - Email: contact@aiami.app
 
 ---
