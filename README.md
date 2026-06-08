@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://apps.apple.com/us/app/aiami/id6759226159">App Store</a> ·
-  <a href="https://github.com/Sharqway/aiami-releases/releases">Android APK</a> ·
+  <a href="https://www.aiami.app">Google Play — Coming soon</a> ·
   <a href="https://www.aiami.app">Website</a> ·
   <a href="https://www.aiami.app/ar/">الموقع بالعربي</a>
 </p>
@@ -62,7 +62,7 @@ Everything you write — journal, spending, reminders, notes — lives on your p
 | iOS | [App Store](https://apps.apple.com/us/app/aiami/id6759226159) |
 | Android | [GitHub Releases](https://github.com/Sharqway/aiami-releases/releases) |
 
-**Why GitHub for Android?** Google Play requires developers to submit personal identity documents. As an app built on privacy, we hold ourselves to the same standard we promise our users. For Android, we chose GitHub Releases — a trusted, open platform.
+
 
 ---
 
