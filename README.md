@@ -60,7 +60,7 @@ Everything you write — journal, spending, reminders, notes — lives on your p
 | Platform | Link |
 |----------|------|
 | iOS | [App Store](https://apps.apple.com/us/app/aiami/id6759226159) |
-| Android | [GitHub Releases](https://github.com/Sharqway/aiami-releases/releases) |
+| Android | [Coming soon on Google Play |
 
 
 
